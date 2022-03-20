@@ -3,6 +3,9 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/kriti/AndroidStudioProjects/HelloWorld2/app/src/main/res/layout-land/activity_main.xml" value="0.2" />
+        <entry key="..\:/Users/kriti/AndroidStudioProjects/HelloWorld2/app/src/main/res/layout-sw600dp/activity_main.xml" value="0.1875" />
+        <entry key="..\:/Users/kriti/AndroidStudioProjects/HelloWorld2/app/src/main/res/layout-xlarge/activity_main.xml" value="0.176" />
         <entry key="..\:/Users/kriti/AndroidStudioProjects/HelloWorld2/app/src/main/res/layout/activity_main.xml" value="0.264" />
       </map>
     </option>
