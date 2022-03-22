@@ -5,4 +5,7 @@
  Hello Toast Challenge
 
 <img src="screenshots/hellotoastchallenge.gif" width="300px" height="600px">
+
+Hello Toast Challenge in Land view
+
 <img src="screenshots/challenge_land.gif" width="600px" height="250px">
